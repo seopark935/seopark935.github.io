@@ -2,7 +2,7 @@
 layout: page
 title: haptic feedback prototyping
 description: Haptic Feedback for the Visually Impaired, designed to help the blind in understanding their surroundings (Competed at the Gwinnett School of Mathematics, Science, and Technology Science and Engineering Fair in 2021)
-img: assets/img/hapticfrontface.jpg
+img: assets/img/hapticfront.png
 importance: 2
 category: competitions
 ---
