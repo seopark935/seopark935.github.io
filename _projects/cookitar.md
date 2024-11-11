@@ -1,10 +1,10 @@
 ---
 layout: page
-title: loop app development (ios club)
-description: a project with no image
-img:
-importance: 2
-category: extracurricular
+title: cookitar
+description: a project with a background image
+img: assets/img/1.jpg
+importance: 4
+category: academic
 ---
 
 Every project has a beautiful feature showcase page.

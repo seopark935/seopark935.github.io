@@ -1,10 +1,10 @@
 ---
 layout: page
-title: loop app development (ios club)
-description: a project with no image
-img:
+title: ARSC - aquatic reflective surface covers
+description: a project with a background image
+img: assets/img/1.jpg
 importance: 2
-category: extracurricular
+category: academic
 ---
 
 Every project has a beautiful feature showcase page.

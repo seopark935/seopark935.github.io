@@ -4,7 +4,7 @@ title: rdrp inhibitor discovery
 description: with background image
 img: assets/img/4.jpg
 importance: 1
-category: competition
+category: competitions
 ---
 
 Every project has a beautiful feature showcase page.

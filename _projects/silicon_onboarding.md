@@ -3,8 +3,8 @@ layout: page
 title: decode block (siliconjackets)
 description: a project with no image
 img:
-importance: 4
-category: club
+importance: 2
+category: extracurricular
 ---
 
 Every project has a beautiful feature showcase page.

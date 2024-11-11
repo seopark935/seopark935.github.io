@@ -3,8 +3,8 @@ layout: page
 title: haptic feedback
 description: a project with a background image
 img: assets/img/1.jpg
-importance: 3
-category: competition
+importance: 2
+category: competitions
 ---
 
 Every project has a beautiful feature showcase page.
