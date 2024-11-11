@@ -49,7 +49,7 @@ navbar_fixed: true
 footer_fixed: true
 search_enabled: true
 socials_in_search: true
-bib_search: false
+bib_search: true
 
 # Dimensions
 max_width: 930px
@@ -111,7 +111,6 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  Best contacts: seopark935@gmail.com OR spark935@gatech.edu
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
