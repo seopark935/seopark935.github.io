@@ -1,8 +1,8 @@
 ---
 layout: page
-title: rdrp inhibitor discovery
-description: with background image
-img: assets/img/4.jpg
+title: computational drug discovery
+description: Docking 6000+ inhibitors using OpenBabel against the RSV RdRp Polymerase (Competed at the Gwinnett Science and Engineering Fair in 2022)
+img: assets/img/micafungin.png
 importance: 1
 category: competitions
 ---

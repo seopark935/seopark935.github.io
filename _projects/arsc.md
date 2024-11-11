@@ -1,10 +1,10 @@
 ---
 layout: page
-title: ARSC - aquatic reflective surface covers
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 2
-category: academic
+title: arsc
+description: Aquatic Reflective Surface Covers, to reduce ice melt (Competed at the Gwinnett Science and Engineering Fair in 2021)
+img: assets/img/arscpicture.jpg
+importance: 3
+category: competition
 ---
 
 Every project has a beautiful feature showcase page.

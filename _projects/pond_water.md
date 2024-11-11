@@ -1,8 +1,8 @@
 ---
 layout: page
 title: pond water analysis
-description: with background image
-img: assets/img/12.jpg
+description: 3D-printed phone microscope and AI movement detection (Governor's Honors Program in 2023)
+img: assets/img/pondimage.jpg
 importance: 1
 category: extracurricular
 ---

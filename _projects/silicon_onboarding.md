@@ -1,7 +1,7 @@
 ---
 layout: page
 title: decode block (siliconjackets)
-description: a project with no image
+description: Onboarding project and development of the Decode block within Physical Design
 img:
 importance: 2
 category: extracurricular
