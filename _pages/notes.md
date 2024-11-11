@@ -6,7 +6,7 @@ description: Notes covering Georgia Tech's dual enrollment courses (2022 - 2024)
 
 Please attribute if you are planning to compile these into study materials.
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [math, ece]
 horizontal: false
 ---
