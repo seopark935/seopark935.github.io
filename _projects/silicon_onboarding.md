@@ -2,7 +2,7 @@
 layout: page
 title: decode block (siliconjackets)
 description: Onboarding project and development of the Decode block within Physical Design
-img:
+img: assets/img/siliconjacketslogo.png
 importance: 2
 category: extracurricular
 ---
