@@ -2,9 +2,7 @@
 layout: page
 title: notes
 permalink: /notes/
-description: Notes covering Georgia Tech's dual enrollment courses (2022 - 2024) and current ECE courses. These notes are not comprehensive, so keep that in mind if you (or others) are using them to study. As always, lecture videos and textbook chapters will always be more informative.
-
-Please attribute if you are planning to compile these into study materials.
+description: Notes covering Georgia Tech's dual enrollment courses (2022 - 2024) and current ECE courses. These notes are not comprehensive, so keep that in mind if you (or others) are using them to study. As always, lecture videos and textbook chapters will always be more informative. Please attribute if you are planning to compile these into study materials.
 nav: true
 nav_order: 3
 display_categories: [math, ece]

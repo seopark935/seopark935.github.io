@@ -17,4 +17,4 @@ nav_order: 1
 
 </div>
 
-<iframe src="../assets/pdf/insilicoarticle.pdf" width="100%" height="500px"></iframe>
+<iframe src="../assets/pdf/insilicoarticle.pdf" width="100%" height="1000px"></iframe>
