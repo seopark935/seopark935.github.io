@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: Seohyun Park # the website title (if blank, full name will be used instead)
 first_name: Seohyun
 last_name: Park
 email: seopark935@gmail.com
@@ -309,8 +309,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Park]
+  first_name: [Seohyun, S.]
 
   style: apa
   locale: en
