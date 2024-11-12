@@ -2,12 +2,13 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description:
 nav: true
 nav_order: 2
 display_categories: [competitions, extracurricular, academic]
 horizontal: false
 ---
+A growing collection of competition-related, extracurricular, and academic projects involving all sorts of hardware and/or software, largely fueled by personal interest.
 
 <!-- pages/projects.md -->
 <div class="projects">

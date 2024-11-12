@@ -17,7 +17,7 @@ Georgia Tech’s internal WiFi network, eduroam, posed connectivity issues with 
 
 This, too, was challenging. Many Raspberry Pi setup guides were either outdated or didn’t match my specific Pi version, so I had to experiment to find the right setup image. Once the Pi booted, my computer didn’t recognize the USB COM device as a network output, blocking my SSH access. I also discovered that the password in the `userconf.txt` file needed encoding for the Pi to recognize it.
 
-After a few days, I was finally able to SSH into the Raspberry Pi. But a new problem arose: how to get the screen running. The screen packaging lacked instructions or a link to download software. I searched for tutorials for similar transparent screens, hoping they might work, but nothing did. Finally, I realized I could search for the manufacturer’s name online. This led me to the correct software, and after downloading and running the provided Python code, I successfully displayed a bitmap image on the screen. You can find the code below.
+After a few days, I was finally able to SSH into the Raspberry Pi. But a new problem arose: how to get the screen running. The screen packaging lacked instructions or a link to download software. I searched for tutorials for similar transparent screens, hoping they might work, but nothing did. Finally, I realized I could search for the manufacturer’s name online. This led me to the correct software, and after downloading and running the provided Python code, I successfully displayed a bitmap image on the screen. You can see the result below.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
