@@ -8,7 +8,7 @@ nav_order: 2
 display_categories: [competitions, academic]
 horizontal: false
 ---
-A growing collection of competition-related, extracurricular, and academic projects involving all sorts of hardware and/or software, largely fueled by personal interest.
+A growing collection of competition-related and academic projects involving all sorts of hardware and/or software, largely fueled by personal interest.
 
 <!-- pages/projects.md -->
 <div class="projects">
