@@ -7,9 +7,9 @@ importance: 2
 category: competitions
 ---
 
-During my sophomore year, I started a project to develop a cost-effective assistive device using distance sensors and vibration motors to help visually impaired individuals navigate their surroundings. Ideally, the user would wear a vest or belt containing motors at different radial directions that would increase or decrease in intensity depending on how close they were to surfaces.
+During my sophomore year, I worked on a project to develop a cost-effective assistive device using distance sensors and vibration motors to help visually impaired individuals navigate their surroundings. Ideally, the user would wear a vest or belt containing motors at different radial directions that would increase or decrease in intensity depending on how close they were to surfaces.
 
-This project was my first hands-on experience with Arduino, soldering, and electronics, providing me with foundational skills in hardware and software development.
+This project was my first hands-on experience with Arduino, soldering, and electronics, which introduced me to software and hardware integration.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -26,9 +26,9 @@ This project was my first hands-on experience with Arduino, soldering, and elect
     From left to right: The initial Arduino connection to an ultrasonic distance sensor, soldering the vibration motor, and testing the distance capability.
 </div>
 
-Because the device had to be affordable and simple to implement, I rapidly prototyped the device in a single day, using household items such as cardboard from cereal boxes, an old phone-slot VR headset, and backpack straps. This early version allowed me to test core functionality quickly and laid the groundwork for the final design.
+Because the device had to be affordable and simple to implement, I created a prototype of the device in a single day, using household items such as cardboard from cereal boxes, an old phone-slot VR headset, and backpack straps. 
 
-The finalized prototype utilized four ultrasonic sensors mounted on a headset to detect obstacles within a 3-meter range, translating this information into haptic feedback through vibration motors. Through comparative testing, I selected ultrasonic sensors over infrared due to their superior accuracy at close range, confirmed by statistical analysis using ANOVA testing. An Arduino controlled the sensor data processing and vibration output, allowing real-time feedback to the user.
+The prototype utilized four ultrasonic sensors mounted on a headset to detect obstacles within a 3-meter range, conveying this information into haptic feedback through vibration motors with data processing and coordination through an Arduino. Through testing via comparison, I selected ultrasonic sensors over infrared due to their superior accuracy at close range, and used statistical ANOVA testing to confirm these results.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -46,7 +46,7 @@ The finalized prototype utilized four ultrasonic sensors mounted on a headset to
 </div>
 
 **Key Technical Skills:**
-- **Hardware and Sensor Integration**: Developed skills in sensor evaluation, soldering, and microcontroller programming to assemble a functional device.
-- **Rapid Prototyping and Resourcefulness**: Created a proof-of-concept model using readily available materials, highlighting my adaptability and problem-solving under constraints.
-- **Data Analysis and Statistical Testing**: Conducted comparative tests between infrared and ultrasonic sensors, validating the ultrasonic sensor’s effectiveness for close-range detection using statistical methods.
-- **Embedded Software Development**: Programmed an Arduino to manage real-time data processing and haptic feedback, ensuring responsive and intuitive interaction.
+- **Hardware and Sensor Integration**: Conducted device evaluation (ultrasonic vs. infrared) and soldering.
+- **Rapid Prototyping and Resourcefulness**: Created a proof-of-concept model using readily available materials.
+- **Data Analysis and Statistical Testing**: Conducted ANOVA testing to determine statistical significance.
+- **Embedded Software Development**: Programmed an Arduino in C++ to manage data processing and vibration motors.

@@ -7,10 +7,11 @@ importance: 1
 category: academic
 ---
 
-During the summer of my junior year, I participated in the Georgia Governor's Honors Program as a Mechanical Design major. With a limited budget of around $100 and a short timeline, I led a project to design a portable microscope attachment that would transform a smartphone into a functional microscope. Inspired by a natural pond near our classrooms, I envisioned this device as a tool to analyze pond water samples and enlisted two team members with backgrounds in computer science and mechanical/electrical engineering to bring the idea to life.
+During the summer of my junior year, I participated in the Georgia Governor's Honors Program as a Mechanical Design major. With a limited budget of around $100 and a short timeline, I led a project to design a portable microscope attachment that would convert a smartphone into a functional microscope. 
 
-The core of the project was a glass bead that, when placed over a phone camera, could magnify close-up subjects. However, achieving stability for consistent magnification was challenging. To address this, we designed and iterated on several 3D-printed clips before opting for a custom phone case, which provided greater stability and usability. This process strengthened my rapid prototyping and CAD skills, as I worked through various design solutions and adapted quickly to feedback.
+After frequently visiting a natural pond near our classrooms, I was inspired to create a device to analyze the water and found two team members with backgrounds in computer science and mechanical/electrical engineering to develop the project.
 
+The core of the project was a glass bead that, when placed over a phone camera, could magnify close-up subjects. However, achieving stability for consistent magnification was challenging. To address this, I designed and iterated on several 3D-printed clips using AutoCAD before opting for a custom phone case, which provided greater stability and usability..
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -21,7 +22,9 @@ The core of the project was a glass bead that, when placed over a phone camera, 
     An image of one of the pictures taken of the pond water
 </div>
 
-After validating our design by examining pond samples and confirming the microscope’s effectiveness, we decided to enhance its functionality with machine learning. Using TensorFlow and OpenCV in Python, we integrated a model capable of detecting moving amoebas in the water, drawing bounding boxes around them to simplify the identification of living organisms. This feature, implemented using iFun Webcam to access the phone camera, added a new layer of interactivity and scientific application to the project. This phase of the project allowed me to apply my programming skills in a real-world context, reinforcing my experience with Python and machine learning integration.
+After validating our design by examining pond samples and confirming the microscope’s effectiveness, we decided to enhance its functionality with machine learning. Using TensorFlow and OpenCV in Python, we integrated a model capable of detecting moving amoebas in the water, drawing bounding boxes around them to simplify the identification of living organisms. 
+
+This phase of the project allowed me to apply programming skills in a real-world context, via reinforcing my experience with Python and machine learning.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -49,7 +52,7 @@ The poster can be found below.
 </div>
 
 **Technical Skills Developed:**
-- **CAD and Rapid Prototyping**: Designed and iterated multiple 3D-printed components, from horizontal and vertical clips to a custom phone case, addressing stability and usability challenges.
-- **Optics and Microscopy**: Explored different glass bead sizes and compound lenses to achieve optimal magnification, deepening my understanding of optical physics and microscope design.
-- **Machine Learning and Image Processing**: Integrated a TensorFlow model with OpenCV to detect amoebas and impurities in real time, automating organism detection and enhancing usability.
-- **Collaborative Problem-Solving**: Led a cross-disciplinary team, coordinating mechanical design with computer science and electrical engineering elements to create a cohesive product.
+- **CAD and Rapid Prototyping**: Designed multiple 3D-printed components, addressing stability/usability obstacles.
+- **Optics and Microscopy**: Explored different glass bead sizes/compound lenses for optimal magnification.
+- **Machine Learning and Image Processing**: Integrated a TensorFlow model with OpenCV to automate organism detection.
+- **Collaborative Problem-Solving**: Led a cross-disciplinary team, coordinating different elements of engineering.
