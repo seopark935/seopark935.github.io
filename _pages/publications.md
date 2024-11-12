@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications from my time at the Liang Lab. 
+description: The publication from my time at the Liang Lab, for which I was the co-lead author. The full list of contributions can be found at the bottom of the article. 
 nav: true
 nav_order: 1
 ---
