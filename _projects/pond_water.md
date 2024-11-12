@@ -7,8 +7,6 @@ importance: 1
 category: academic
 ---
 
-**Portable Phone Microscope - Georgia Governor's Honors Program (Summer 2023)**
-
 During the summer of my junior year, I participated in the Georgia Governor's Honors Program as a Mechanical Design major. With a limited budget of around $100 and a short timeline, I led a project to design a portable microscope attachment that would transform a smartphone into a functional microscope. Inspired by a natural pond near our classrooms, I envisioned this device as a tool to analyze pond water samples and enlisted two team members with backgrounds in computer science and mechanical/electrical engineering to bring the idea to life.
 
 The core of the project was a glass bead that, when placed over a phone camera, could magnify close-up subjects. However, achieving stability for consistent magnification was challenging. To address this, we designed and iterated on several 3D-printed clips before opting for a custom phone case, which provided greater stability and usability. This process strengthened my rapid prototyping and CAD skills, as I worked through various design solutions and adapted quickly to feedback.
@@ -43,6 +41,7 @@ After validating our design by examining pond samples and confirming the microsc
 - **Machine Learning and Image Processing**: Integrated a TensorFlow model with OpenCV to detect amoebas and impurities in real time, automating organism detection and enhancing usability.
 - **Collaborative Problem-Solving**: Led a cross-disciplinary team, coordinating mechanical design with computer science and electrical engineering elements to create a cohesive product.
 
+**Outcomes**
 Our project culminated in a presentation at the program showcase, where we demonstrated the device’s practical applications and potential for educational and consumer use. This experience honed my skills in engineering design, teamwork, and innovation, and reinforced the value of adaptability when working under constraints.
 
 The poster can be found below.

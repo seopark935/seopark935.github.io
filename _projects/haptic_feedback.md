@@ -7,9 +7,9 @@ importance: 2
 category: competitions
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+During my sophomore year, I started a project to develop a cost-effective assistive device using distance sensors and vibration motors to help visually impaired individuals navigate their surroundings. Ideally, the user would wear a vest or belt containing motors at different radial directions that would increase or decrease in intensity depending on how close they were to surfaces.
+
+This project was my first hands-on experience with Arduino, soldering, and electronics, providing me with foundational skills in hardware and software development.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -23,8 +23,12 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    From left to right: The initial Arduino connection to an ultrasonic distance sensor, soldering the vibration motor, and testing the distance capability.
 </div>
+
+Because the device had to be affordable and simple to implement, I rapidly prototyped the device in a single day, using household items such as cardboard from cereal boxes, an old phone-slot VR headset, and backpack straps. This early version allowed me to test core functionality quickly and laid the groundwork for the final design.
+
+The finalized prototype utilized four ultrasonic sensors mounted on a headset to detect obstacles within a 3-meter range, translating this information into haptic feedback through vibration motors. Through comparative testing, I selected ultrasonic sensors over infrared due to their superior accuracy at close range, confirmed by statistical analysis using ANOVA testing. An Arduino controlled the sensor data processing and vibration output, allowing real-time feedback to the user.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -38,9 +42,13 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    The prototype hardware and wiring.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+**Key Technical Skills:**
+- **Hardware and Sensor Integration**: Developed skills in sensor evaluation, soldering, and microcontroller programming to assemble a functional device.
+- **Rapid Prototyping and Resourcefulness**: Created a proof-of-concept model using readily available materials, highlighting my adaptability and problem-solving under constraints.
+- **Data Analysis and Statistical Testing**: Conducted comparative tests between infrared and ultrasonic sensors, validating the ultrasonic sensor’s effectiveness for close-range detection using statistical methods.
+- **Embedded Software Development**: Programmed an Arduino to manage real-time data processing and haptic feedback, ensuring responsive and intuitive interaction.
+
+**Outcomes**: This project resulted in an affordable, non-intrusive haptic feedback headset that provided reliable distance awareness for visually impaired users, offering a viable alternative to more expensive assistive technologies. This experience honed my skills in electronics, rapid prototyping, and embedded programming, while reinforcing the importance of innovation with limited resources.
