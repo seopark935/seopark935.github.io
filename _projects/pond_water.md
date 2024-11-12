@@ -35,13 +35,6 @@ After validating our design by examining pond samples and confirming the microsc
     Our project booth, and our poster, along with the team.
 </div>
 
-**Technical Skills Developed:**
-- **CAD and Rapid Prototyping**: Designed and iterated multiple 3D-printed components, from horizontal and vertical clips to a custom phone case, addressing stability and usability challenges.
-- **Optics and Microscopy**: Explored different glass bead sizes and compound lenses to achieve optimal magnification, deepening my understanding of optical physics and microscope design.
-- **Machine Learning and Image Processing**: Integrated a TensorFlow model with OpenCV to detect amoebas and impurities in real time, automating organism detection and enhancing usability.
-- **Collaborative Problem-Solving**: Led a cross-disciplinary team, coordinating mechanical design with computer science and electrical engineering elements to create a cohesive product.
-
-**Outcomes**
 Our project culminated in a presentation at the program showcase, where we demonstrated the device’s practical applications and potential for educational and consumer use. This experience honed my skills in engineering design, teamwork, and innovation, and reinforced the value of adaptability when working under constraints.
 
 The poster can be found below.
@@ -54,3 +47,9 @@ The poster can be found below.
 <div class="caption">
     Our presentation poster, showcasing our design iterations and process.
 </div>
+
+**Technical Skills Developed:**
+- **CAD and Rapid Prototyping**: Designed and iterated multiple 3D-printed components, from horizontal and vertical clips to a custom phone case, addressing stability and usability challenges.
+- **Optics and Microscopy**: Explored different glass bead sizes and compound lenses to achieve optimal magnification, deepening my understanding of optical physics and microscope design.
+- **Machine Learning and Image Processing**: Integrated a TensorFlow model with OpenCV to detect amoebas and impurities in real time, automating organism detection and enhancing usability.
+- **Collaborative Problem-Solving**: Led a cross-disciplinary team, coordinating mechanical design with computer science and electrical engineering elements to create a cohesive product.

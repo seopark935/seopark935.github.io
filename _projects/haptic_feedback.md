@@ -50,5 +50,3 @@ The finalized prototype utilized four ultrasonic sensors mounted on a headset to
 - **Rapid Prototyping and Resourcefulness**: Created a proof-of-concept model using readily available materials, highlighting my adaptability and problem-solving under constraints.
 - **Data Analysis and Statistical Testing**: Conducted comparative tests between infrared and ultrasonic sensors, validating the ultrasonic sensor’s effectiveness for close-range detection using statistical methods.
 - **Embedded Software Development**: Programmed an Arduino to manage real-time data processing and haptic feedback, ensuring responsive and intuitive interaction.
-
-**Outcomes**: This project resulted in an affordable, non-intrusive haptic feedback headset that provided reliable distance awareness for visually impaired users, offering a viable alternative to more expensive assistive technologies. This experience honed my skills in electronics, rapid prototyping, and embedded programming, while reinforcing the importance of innovation with limited resources.
