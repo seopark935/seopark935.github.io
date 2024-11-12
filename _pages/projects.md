@@ -5,7 +5,7 @@ permalink: /projects/
 description:
 nav: true
 nav_order: 2
-display_categories: [competitions, extracurricular, academic]
+display_categories: [competitions, academic]
 horizontal: false
 ---
 A growing collection of competition-related, extracurricular, and academic projects involving all sorts of hardware and/or software, largely fueled by personal interest.
