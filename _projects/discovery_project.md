@@ -7,6 +7,11 @@ importance: 1
 category: academic
 ---
 
+**Developed Technical Skills:**
+- **Embedded Systems and Hardware Integration**: Configured a Raspberry Pi Zero W to operate a transparent OLED display.
+- **Networking and SSH Access**: Established a headless setup for the Raspberry Pi, troubleshooting SSH access issues.
+- **Linux OS and Python**: Installed Raspbian OS, used Python for display control, and handled image rendering.
+
 After seeing recent advancements in VR and AR technology, like [Meta's new Orion glasses](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/), I was inspired to create my own heads-up display using a transparent OLED screen and a Raspberry Pi. Ideally, it would display navigation directions while on my bike, alongside weather and time data.
 
 While exploring the documentation, I realized that building a fully-featured set of glasses—complete with cameras, voice recognition, and a rechargeable battery—would be too time-consuming. So, I decided to simplify the project to focus on displaying bitmap images on the transparent screen as a first step toward a more advanced prototype.

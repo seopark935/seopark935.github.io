@@ -7,6 +7,12 @@ importance: 2
 category: competitions
 ---
 
+**Developed Technical Skills:**
+- **Hardware and Sensor Integration**: Conducted device evaluation (ultrasonic vs. infrared) and soldering.
+- **Rapid Prototyping and Resourcefulness**: Created a proof-of-concept model using readily available materials.
+- **Data Analysis and Statistical Testing**: Conducted ANOVA testing to determine statistical significance.
+- **Embedded Software Development**: Programmed an Arduino in C++ to manage data processing and vibration motors.
+
 During my sophomore year, I worked on a project to develop a cost-effective assistive device using distance sensors and vibration motors to help visually impaired individuals navigate their surroundings. Ideally, the user would wear a vest or belt containing motors at different radial directions that would increase or decrease in intensity depending on how close they were to surfaces.
 
 This project was my first hands-on experience with Arduino, soldering, and electronics, which introduced me to software and hardware integration.
@@ -44,9 +50,3 @@ The prototype utilized four ultrasonic sensors mounted on a headset to detect ob
 <div class="caption">
     The prototype hardware and wiring.
 </div>
-
-**Key Technical Skills:**
-- **Hardware and Sensor Integration**: Conducted device evaluation (ultrasonic vs. infrared) and soldering.
-- **Rapid Prototyping and Resourcefulness**: Created a proof-of-concept model using readily available materials.
-- **Data Analysis and Statistical Testing**: Conducted ANOVA testing to determine statistical significance.
-- **Embedded Software Development**: Programmed an Arduino in C++ to manage data processing and vibration motors.

@@ -7,6 +7,12 @@ importance: 1
 category: academic
 ---
 
+**Developed Technical Skills:**
+- **CAD and Rapid Prototyping**: Designed multiple 3D-printed components, addressing stability/usability obstacles.
+- **Optics and Microscopy**: Explored different glass bead sizes/compound lenses for optimal magnification.
+- **Machine Learning and Image Processing**: Integrated a TensorFlow model with OpenCV to automate organism detection.
+- **Collaborative Problem-Solving**: Led a cross-disciplinary team, coordinating different elements of engineering.
+
 During the summer of my junior year, I participated in the Georgia Governor's Honors Program as a Mechanical Design major. With a limited budget of around $100 and a short timeline, I led a project to design a portable microscope attachment that would convert a smartphone into a functional microscope. 
 
 After frequently visiting a natural pond near our classrooms, I was inspired to create a device to analyze the water and found two team members with backgrounds in computer science and mechanical/electrical engineering to develop the project.
@@ -50,9 +56,3 @@ The poster can be found below.
 <div class="caption">
     Our presentation poster, showcasing our design iterations and process.
 </div>
-
-**Technical Skills Developed:**
-- **CAD and Rapid Prototyping**: Designed multiple 3D-printed components, addressing stability/usability obstacles.
-- **Optics and Microscopy**: Explored different glass bead sizes/compound lenses for optimal magnification.
-- **Machine Learning and Image Processing**: Integrated a TensorFlow model with OpenCV to automate organism detection.
-- **Collaborative Problem-Solving**: Led a cross-disciplinary team, coordinating different elements of engineering.
