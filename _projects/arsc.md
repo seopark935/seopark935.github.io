@@ -23,7 +23,7 @@ I began this project in the first semester of my sophomore year (Fall 2022), aim
     </div>
 </div>
 <div class="caption">
-    caption
+    The initial plans for the device, and a more structured drawing on the right.
 </div>
 
 For the prototype, I used a bodyboard as the flotation base, supported by mylar sheets attached to plastic struts. Retractable lanyards connected the components, allowing flexibility to adapt to ocean waves. 
@@ -39,6 +39,6 @@ After constructing the prototype, I tested its effectiveness in reducing surroun
     </div>
 </div>
 <div class="caption">
-    caption
+    The designed model in OnShape on the left, with the physical device on the right.
 </div>
 
