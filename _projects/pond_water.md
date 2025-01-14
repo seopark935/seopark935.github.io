@@ -2,7 +2,7 @@
 layout: page
 title: pond water analysis
 description: 3D-printed phone microscope and AI movement detection (Governor's Honors Program in 2023)
-img: assets/img/pondimage.jpg
+img: assets/img/pond1image.jpg
 importance: 1
 category: academic
 ---
