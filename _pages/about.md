@@ -3,10 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle:
-<<<<<<< HEAD
-=======
-
->>>>>>> parent of 1d03103 (Updated pond image picture)
 profile:
 align: right
 image: prof_pic.jpg
