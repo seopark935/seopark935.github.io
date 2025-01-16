@@ -1,8 +1,10 @@
 ---
-layout: about
+
+layout: page
 title: about
 permalink: /
 subtitle:
+
 profile:
 align: right
 image: prof_pic.jpg
@@ -14,7 +16,6 @@ more_info: >
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
----
 
 Hello, and welcome to my project portfolio! My name is Seohyun Park, and I am a Computer Engineering major at Georgia Tech (Graduating May 2027) with threads in [Computer Hardware & Emerging Architectures](https://ece.gatech.edu/computing-hardware-emerging-architectures-thread) and [Systems & Architecture](https://www.cc.gatech.edu/academics/threads/systems-architecture), interested in chip design, bioinformatics, and embedded systems.
 
