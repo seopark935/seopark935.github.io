@@ -20,10 +20,15 @@ After frequently visiting a natural pond near our classrooms, I was inspired to 
 The core of the project was a glass bead that, when placed over a phone camera, could magnify close-up subjects. However, achieving stability for consistent magnification was challenging. To address this, I designed and iterated on several 3D-printed clips using AutoCAD before opting for a custom phone case, which provided greater stability and usability..
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/videos/pondvideo.mp4" class="img-fluid rounded z-depth-1" controls=true caption="A video taken of the pond water using the microscope." %}
-    </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include video.liquid 
+       path="assets/videos/pondvideo.mp4" 
+       class="img-fluid rounded z-depth-1" 
+       controls="true" 
+       caption="A video taken of the pond water using the microscope." %}
+  </div>
 </div>
+
 
 After validating our design by examining pond samples and confirming the microscope’s effectiveness, we decided to enhance its functionality with machine learning. Using TensorFlow and OpenCV in Python, we integrated a model capable of detecting moving amoebas in the water, drawing bounding boxes around them to simplify the identification of living organisms. 
 
