@@ -1,7 +1,7 @@
 ---
 layout: page
 title: discovery project
-description: Working with Raspberry PI, headless setup, and transparent OLED displays.
+description: Working with Raspberry PI, headless setup, and transparent OLED displays. (ECE1100 in Fall 2024)
 img: assets/img/discovery.jpg
 importance: 1
 category: academic
