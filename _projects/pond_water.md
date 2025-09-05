@@ -21,11 +21,7 @@ The core of the project was a glass bead that, when placed over a phone camera, 
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include video.liquid 
-       path="assets/videos/pondvideo.MP4" 
-       class="img-fluid rounded z-depth-1" 
-       controls="true" 
-       caption="A video taken of the pond water using the microscope." %}
+    {% include video.liquid path="assets/img/pondvideo.mp4" class="img-fluid rounded z-depth-1" controls="true" caption="Pond water using the microscope." %}
   </div>
 </div>
 

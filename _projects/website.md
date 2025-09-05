@@ -30,10 +30,6 @@ Lorem Ipsum et cetera
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include video.liquid 
-       path="assets/videos/moviesstore.mp4" 
-       class="img-fluid rounded z-depth-1" 
-       controls="true" 
-       caption="A video taken of the website, showcasing all the included features." %}
+    {% include video.liquid path="assets/img/moviesstore.mp4" class="img-fluid rounded z-depth-1" controls="true" caption="Pond water using the microscope." %}
   </div>
 </div>
